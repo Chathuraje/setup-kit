@@ -18,22 +18,24 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone [https://github.com/Chathuraje/setup-kit/tree/8b7182fef28067c1ad32733ca68a0534cf3acc96](https://github.com/Chathuraje/setup-kit/tree/8b7182fef28067c1ad32733ca68a0534cf3acc96)
    ```
 
-2. Navigate to the 'react-vita' directory:
+2. Copy react-vita folder into project folder
+
+3. Navigate to the 'react-vita' directory:
 
    ```bash
    cd react-vita
    ```
 
-3. Install dependencies:
+4. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. To start the development server, run:
+5. To start the development server, run:
 
    ```bash
    npm run dev
